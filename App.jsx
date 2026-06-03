@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       {!showProductList ? (
         <div className="landing-page">
-          <h1>Paradise Nursery</h1>
+          <h1>Welcome to Paradise Nursery</h1>
           <p>Where Green Meets Serenity</p>
           <button onClick={() => setShowProductList(true)}>
             Get Started
